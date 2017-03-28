@@ -23,3 +23,43 @@
         background-image: url(../css/imagens/games5.png);
     }
 }
+
+.align {
+    background: none;
+    box-sizing: border-box;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.product {
+    display: inline-block;
+    margin: 0px 2% 30px 2%;
+    text-align: center;
+    width: 20%;
+}
+
+.product img {
+    width:100%;
+}
+
+.botao a {
+    color: #FFF;
+    text-decoration: none;
+    background: #B22222;
+    border: 0.2px;
+    width: 100%;
+    margin: 10px auto;
+    padding: 5px 10px;
+}
+
+.botao a:hover {
+    background: #000;
+}
+
+.button{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px 0px;
+}
